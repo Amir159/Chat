@@ -26,7 +26,7 @@ string getAnswer(string& user_question)
             return "[BOT]: " + answer;
         }
     }
-    return "[BOT]: I don't know that to say.";
+    return "[BOT]: I don't know what to say.";
 }
 
 const string set_name = "SET_NAME::";
